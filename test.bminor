@@ -1,0 +1,9 @@
+test: function integer () = {
+    asdf = b;
+
+    x: array [14 + (c / d)] integer = {1, 2, 3, 4, 5, func_call("asdf")};
+
+    for (i = true; i < false; i++) {
+        i = i ^ (a * b / (c + d));
+    }
+}
